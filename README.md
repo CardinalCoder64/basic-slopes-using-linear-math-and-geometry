@@ -3,6 +3,8 @@ These are the project files for the tutorial, "Guide to Basic Slopes Using Linea
 
 These projects are to help people who want to base their project off the code or just want a hands-on example of how the code works.
 
+**This code will NOT work for 2D platformers. Future updates may change this.**
+
 Instructions:
 - Download .zip file
 - There are two project types: "No Lines", and "With Lines". These refer to the lines of the slope(s) when the player collides with them.
